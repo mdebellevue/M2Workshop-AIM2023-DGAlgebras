@@ -67,7 +67,7 @@ protect diffs
 protect basisAlgebra
 
 -- Defining the new type DGAlgebra
-DGAlgebra = new Type of Ring
+DGAlgebra = new Type of MutableHashTable
 globalAssignment DGAlgebra
 --DGAlgebraMap still in development
 DGAlgebraMap = new Type of MutableHashTable
