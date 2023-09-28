@@ -1,0 +1,8 @@
+Implement == comparison of dg algebras
+
+Fix A#diff to not be a ring map
+
+Convience functions
+	  -Accessing the dg algebra of an element
+	  -Putting an element into different dg algebras?
+	     - in particular, promote doesn't work
